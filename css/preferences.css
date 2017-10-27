@@ -1,0 +1,10 @@
+html {
+	-webkit-user-select: none;
+  -webkit-app-region: drag;
+
+  font-size: 12px;
+}
+
+input[value='Submit'] {
+	display: none;
+}
